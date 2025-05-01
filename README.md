@@ -68,11 +68,13 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <h3>🌟 I'll Have Learn Redux</h3>
-  <h3>🌟 I'll Have Learn React 19</h3>
-  <h3>🌟 I'll Have Learn Next 15</h3>
-</div>
+<table align="center">
+  <tr>
+    <td><strong>🌟 I'll Have Learn Redux</strong></td>
+    <td><strong>🌟 I'll Have Learn React 19</strong></td>
+    <td><strong>🌟 I'll Have Learn Next 15</strong></td>
+  </tr>
+</table>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=redux,react,next"/>
