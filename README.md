@@ -35,10 +35,6 @@ console.log(information);
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
 ![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Next Ui](https://img.shields.io/badge/nextui-%23E34F26.svg?style=for-the-badge&logo=nextui&logoColor=white&color=black)
-
-
-
 
 
 <br/>
@@ -50,16 +46,12 @@ console.log(information);
 | --- | --- | --- | --- |
 | GiyahLand Site | Shopping | HTML CSS JS Tailwind | [GiyahLand](https://amirmahdighadiri.github.io/giyah-land/) |
 
-
-
-
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm"/>
 </p>
 
-<br/>
 <br/>
 
 <h2 align="left">📞 &nbsp; Contact me </h2>
@@ -70,14 +62,12 @@ console.log(information);
   </a>
 </p>
 
-
-
 <br />
 <br />
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-<p>
+<p style="display:flex; align-items: center;">
     <h3 align="left">🌟I'll Have Learn Redux</h3>
     <h3 align="center">🌟I'll Have Learn React 19</h3>
     <h3 align="right">🌟I'll Have Learn Next 15</h3>
