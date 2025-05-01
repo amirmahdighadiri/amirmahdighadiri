@@ -68,9 +68,12 @@ console.log(information);
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
 
-    <h3>🌟 I'll Have Learn Redux</h3>
-    <h3>🌟 I'll Have Learn React 19</h3>
-    <h3>🌟 I'll Have Learn Next 15</h3>
+   
+<h3 align="left" style="display:inline-block;">🌟I'll Have Learn Redux</h3>
+
+<h3 align="center" style="display:inline-block;">🌟I'll Have Learn React 19</h3>
+
+<h3 align="right" style="display:inline-block;">🌟I'll Have Learn Next 15</h3>
 
 
 <p align="center">
@@ -104,3 +107,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
