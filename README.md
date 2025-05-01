@@ -56,7 +56,7 @@ console.log(information);
 
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/Amirmahdii_Ghadirii/">
     <img src="https://img.shields.io/badge/Telegram-@Amirmahdii_Ghadirii-blue?style=flat&logo=telegram" />
   </a>
@@ -68,9 +68,9 @@ console.log(information);
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
 <p align="center">
-  <span style="display:inline-block; margin: 0 10px;">🌟 I'll Have Learn Redux</span>
-  <span style="display:inline-block; margin: 0 10px;">🌟 I'll Have Learn React 19</span>
-  <span style="display:inline-block; margin: 0 10px;">🌟 I'll Have Learn Next 15</span>
+  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn Redux</span>
+  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn React 19</span>
+  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn Next 15</span>
 </p>
 
 <p align="center">
