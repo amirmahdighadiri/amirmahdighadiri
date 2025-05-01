@@ -89,7 +89,7 @@ console.log(information);
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdighadiri&hide_progress=false&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdighadiri&hide_progress=false&theme=light" />
 </p>
 
 <!--
