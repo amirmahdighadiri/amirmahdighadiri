@@ -11,9 +11,8 @@ console.log(information);
 ``` json
 {
     "name": "Amirmahd Ghadiri",
-    "description":"Hi guys. I'm a Front-End Developer with over 1.5 years of experience in web development.I have a strong foundation in JavaScript and recently started diving into React, which I've been working with for the past 3 months. My current focus is on building modern, responsive user interfaces, and I'm planning to explore Next.js as my next step in advancing my skills.I'm always eager to learn, improve, and take on new challenges in the world of front-end development."
-    "goals":"Build scalable and clean React applications and Learn and master Next.js and Stay up-to-date with the latest front-end tools and best practices
-"
+    "description":"Hi guys. I'm a Front-End Developer with over 1.5 years of experience in web development.I have a strong foundation in JavaScript and recently started diving into React, which I've been working with for the past 3 months. My current focus is on building modern, responsive user interfaces, and I'm planning to explore Next.js as my next step in advancing my skills.I'm always eager to learn, improve, and take on new challenges in the world of front-end development.",
+    "goals":"Build scalable and clean React applications and Learn and master Next.js and Stay up-to-date with the latest front-end tools and best practices"
 }
 ```
 
