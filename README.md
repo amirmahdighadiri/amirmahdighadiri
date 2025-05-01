@@ -79,10 +79,11 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
- <h3 align="left">🌟I'll Have Learn Redux</h3>
-
- <h3 align="center">🌟I'll Have Learn React 19</h3>
- <h3 align="center">🌟I'll Have Learn Next 15</h3>
+<p>
+    <h3 align="left">🌟I'll Have Learn Redux</h3>
+    <h3 align="center">🌟I'll Have Learn React 19</h3>
+    <h3 align="right">🌟I'll Have Learn Next 15</h3>
+</p>
 
 
 <p align="center">
