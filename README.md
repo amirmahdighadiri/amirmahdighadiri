@@ -58,8 +58,6 @@ console.log(information);
 <p align="center">
     <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm"/>
 </p>
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest-api" />
-<img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" />
 
 <br/>
 <br/>
