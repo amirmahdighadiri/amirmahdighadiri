@@ -11,7 +11,13 @@ console.log(information);
 ``` json
 {
     "name": "Amirmahd Ghadiri",
-    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
+    "description":"Hi guys. I'm a Front-End Developer with over 1.5 years of experience in web development.  
+    I have a strong foundation in JavaScript and recently started diving into React, which I've been working with for the past 3 months.  
+    My current focus is on building modern, responsive user interfaces, and I'm planning to explore Next.js as my next step in advancing my skills.
+    I'm always eager to learn, improve, and take on new challenges in the world of front-end development."
+    "goals":"- Build scalable and clean React applications
+    - Learn and master Next.js
+    - Stay up-to-date with the latest front-end tools and best practices"
 }
 ```
 
