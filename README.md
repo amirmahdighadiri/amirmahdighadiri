@@ -27,16 +27,15 @@ console.log(information);
 <h2>🖥 &nbsp; Other Packages I Know :</h2>
 
 
-<p align="center">
-    ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-    ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-    ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-    ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
-    ![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
-</p>
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
+![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+
 
 
 <br/>
@@ -69,11 +68,11 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-<p align="center">
-  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn Redux</span>
-  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn React 19</span>
-  <span style="display:inline-block; font-size: 1.17em; font-weight: bold; margin: 0 10px;">🌟 I'll Have Learn Next 15</span>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn Redux</h3>
+  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn React 19</h3>
+  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn Next 15</h3>
+</div>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=redux,react,next"/>
