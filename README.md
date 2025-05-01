@@ -68,10 +68,10 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn Redux</h3>
-  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn React 19</h3>
-  <h3 style="font-size: 1.17em; font-weight: bold;">🌟 I'll Have Learn Next 15</h3>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <h3>🌟 I'll Have Learn Redux</h3>
+  <h3>🌟 I'll Have Learn React 19</h3>
+  <h3>🌟 I'll Have Learn Next 15</h3>
 </div>
 
 <p align="center">
