@@ -39,13 +39,13 @@ console.log(information);
 
 
 <br/>
-<br/>
 
 <h2>🌐 &nbsp; My Project : </h2>
 
 | Project Name | Project Category | Project Packages | Project Link |
 | --- | --- | --- | --- |
 | GiyahLand Site | Shopping | HTML CSS JS Tailwind | [GiyahLand](https://amirmahdighadiri.github.io/giyah-land/) |
+<br/>
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
@@ -63,7 +63,6 @@ console.log(information);
   </a>
 </p>
 
-<br />
 <br />
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
@@ -83,7 +82,6 @@ console.log(information);
 
 
 
-<br/>
 <br/>
 
 ---
