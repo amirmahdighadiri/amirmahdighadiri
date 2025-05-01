@@ -19,7 +19,7 @@ console.log(information);
 <h2>🖥 &nbsp; My Skills :</h2>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,redux,tailwind,react,next,html,css"/>
+   <img src="https://skillicons.dev/icons?i=js,tailwind,react,html,css"/>
 </p>
 
 <br>
@@ -56,7 +56,7 @@ console.log(information);
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,npm,vite,webstorm,phpstorm"/>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm"/>
 </p>
 <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest-api" />
 <img width="40px" height="40px" align="left" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swager" />
@@ -82,10 +82,11 @@ console.log(information);
  <h3 align="left">🌟I'll Have Learn Redux</h3>
 
  <h3 align="center">🌟I'll Have Learn React 19</h3>
+ <h3 align="center">🌟I'll Have Learn Next 15</h3>
 
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=redux,react"/>
+   <img src="https://skillicons.dev/icons?i=redux,react,next"/>
 </p>
 
 
