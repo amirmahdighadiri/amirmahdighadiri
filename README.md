@@ -68,7 +68,7 @@ console.log(information);
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-<h3 align="left" style="display:inline-block;"> <img src="https://skillicons.dev/icons?i=redux" width="20" height="auto"/> I'll Have Learn Redux</h3>
+<h3 align="left" style="display: flex; align-items: center; gap: 10px;"> <img src="https://skillicons.dev/icons?i=redux" width="20" height="auto"/> I'll Have Learn Redux</h3>
 
 <h3 align="center" style="display:inline-block;">🌟I'll Have Learn React 19</h3>
 
