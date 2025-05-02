@@ -58,9 +58,9 @@ console.log(information);
 
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
-<p align="center">
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maziar_101)
-</p>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/@Amirmahdii_Ghadirii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maziar-zamani-3173ab245/) 
+
 
 <br />
 
