@@ -55,12 +55,14 @@ console.log(information);
 
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
-
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmahdi-ghadiri-b6b044346/) 
-<a href="https://t.me/Amirmahdii_Ghadirii/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)" />
-</a>
+<p align="center">
+    <a href="https://t.me/Amirmahdii_Ghadirii/">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/amirmahdi-ghadiri-b6b044346/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
 <br />
 
