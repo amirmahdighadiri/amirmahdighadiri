@@ -19,7 +19,7 @@ console.log(information);
 
 <h2>🖥 &nbsp; My Skills :</h2>
 
-<p align="center">
+<p align="left">
    <img src="https://skillicons.dev/icons?i=js,tailwind,react,html,css"/>
 </p>
 
@@ -47,7 +47,7 @@ console.log(information);
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm"/>
 </p>
 
@@ -55,7 +55,7 @@ console.log(information);
 
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
-<p align="center">
+<p align="left">
     <a href="https://t.me/Amirmahdii_Ghadirii/">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" />
     </a>
