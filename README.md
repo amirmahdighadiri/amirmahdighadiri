@@ -75,8 +75,7 @@ console.log(information);
 <h3 align="left">🌟 I'll Have Learn Next 15</h3>
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=redux,react"/>
-   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"/>
+   <img src="https://skillicons.dev/icons?i=redux,react,next"/>
 </p>
 
 <br/>
