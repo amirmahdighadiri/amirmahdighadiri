@@ -59,9 +59,7 @@ console.log(information);
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
 <p align="center">
-  <a href="https://t.me/Amirmahdii_Ghadirii/">
-    <img src="https://img.shields.io/badge/Telegram-@Amirmahdii_Ghadirii-blue?style=flat&logo=telegram" />
-  </a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maziar_101)
 </p>
 
 <br />
