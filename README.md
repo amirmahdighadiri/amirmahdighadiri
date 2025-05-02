@@ -59,15 +59,13 @@ console.log(information);
 <h2 align="left">📞 &nbsp; Contact me </h2>
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/@Amirmahdii_Ghadirii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maziar-zamani-3173ab245/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmahdi-ghadiri-b6b044346/) 
 
 
 <br />
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
-
-   
 <h3 align="left" style="display:inline-block;">🌟I'll Have Learn Redux</h3>
 
 <h3 align="center" style="display:inline-block;">🌟I'll Have Learn React 19</h3>
