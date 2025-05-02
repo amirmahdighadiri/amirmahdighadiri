@@ -66,8 +66,6 @@ console.log(information);
 
 <br />
 
-<h2 align="left">👨‍💻 &nbsp; What will I do </h2>
-
 
 <h2 align="left">👨‍💻 &nbsp; What will I do </h2>
 
