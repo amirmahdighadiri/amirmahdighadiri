@@ -74,12 +74,6 @@ console.log(information);
 
 <h3 align="left"><img src="https://skillicons.dev/icons?i=next" width="20" height="20"/> I'll Have Learn Next 15</h3>
 
-
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=redux,react,next"/>
-</p>
-
-
 <br/>
 
 ---
