@@ -70,9 +70,9 @@ console.log(information);
 
 <h3 align="left"> <img src="https://skillicons.dev/icons?i=redux" width="20" height="20"/> I'll Have Learn Redux</h3>
 
-<h3 align="center" style="display:inline-block;">🌟I'll Have Learn React 19</h3>
+<h3 align="left"><img src="https://skillicons.dev/icons?i=react" width="20" height="20"/> I'll Have Learn React 19</h3>
 
-<h3 align="right" style="display:inline-block;">🌟I'll Have Learn Next 15</h3>
+<h3 align="left"><img src="https://skillicons.dev/icons?i=next" width="20" height="20"/> I'll Have Learn Next 15</h3>
 
 
 <p align="center">
