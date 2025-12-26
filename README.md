@@ -43,7 +43,7 @@ console.log(information);
 | Project Name | Project Category | Project Packages | Project Link |
 | --- | --- | --- | --- |
 | GiyahLand Site | Shopping | HTML CSS JS Tailwind | [GiyahLand](https://amirmahdighadiri.github.io/gyiah-shop/index.html) |
-| CarinShop Site | Shopping | HTML Tailwind React.Js | [GiyahLand](https://amirmahdighadiri.github.io/karin-shop/) |
+| CarinShop Site | Shopping | HTML Tailwind React.Js | [CarinShop](https://amirmahdighadiri.github.io/karin-shop/) |
 <br/>
 
 <h2>🔧 &nbsp; The tools I work with :</h2>
