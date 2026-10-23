@@ -20,7 +20,7 @@ console.log(information);
 <h2>🖥 &nbsp; My Skills :</h2>
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=js,tailwind,react,html,css"/>
+   <img src="https://skillicons.dev/icons?i=js,tailwind,react,html,css,redux"/>
 </p>
 
 <br>
