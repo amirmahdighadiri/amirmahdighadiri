@@ -49,7 +49,7 @@ console.log(information);
 <h2>🔧 &nbsp; The tools I work with :</h2>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm,pucharm"/>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,xd,npm,vite,webstorm,phpstorm,pycharm"/>
 </p>
 
 <br/>
