@@ -35,6 +35,7 @@ console.log(information);
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Swiper](https://img.shields.io/badge/swiper-32f2f.svg?style=for-the-badge&logo=swiper&logoColor=white&color=blue)
 ![React Router](https://img.shields.io/badge/reactrouter-%23E34F26.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <br/>
 
